@@ -1,0 +1,16 @@
+# Python Virtual Environment
+venv/
+
+# Python Cache & Build Artifacts
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+
+# Database Files
+*.db
+*.sqlite3
+
+# Specific videos to ignore
+FLAM_video.mp4
